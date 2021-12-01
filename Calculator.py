@@ -14,3 +14,10 @@ def substraction(x,y):
  return(x-y) 
 
 print(a,"-",b,"=",substraction(a,b))
+
+
+#adding multiplication feature 
+def multiplication(x,y):
+ return(x*y) 
+
+print(a,"*",b,"=",multiplication(a,b))
