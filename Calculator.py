@@ -7,3 +7,10 @@ def addition(x,y):
  return(x+y) 
 
 print(a,"+",b,"=",addition(a,b))
+
+
+#adding substraction feature 
+def substraction(x,y):
+ return(x+y) 
+
+print(a,"-",b,"=",substraction(a,b))
