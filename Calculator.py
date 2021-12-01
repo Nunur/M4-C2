@@ -26,4 +26,6 @@ print(a,"*",b,"=",multiplication(a,b))
 #adding division feature 
 def division(x,y):
  return(x/y) 
+
 print(a,"/",b,"=",division(a,b))
+
